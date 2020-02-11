@@ -1,0 +1,39 @@
+D:\Google 雲端硬碟\Project\五子棋\bin\Debug\五子棋.exe.config
+D:\Google 雲端硬碟\Project\五子棋\bin\Debug\五子棋.exe
+D:\Google 雲端硬碟\Project\五子棋\bin\Debug\五子棋.pdb
+D:\Google 雲端硬碟\Project\五子棋\obj\Debug\五子棋.csprojResolveAssemblyReference.cache
+D:\Google 雲端硬碟\Project\五子棋\obj\Debug\五子棋.Form1.resources
+D:\Google 雲端硬碟\Project\五子棋\obj\Debug\五子棋.Properties.Resources.resources
+D:\Google 雲端硬碟\Project\五子棋\obj\Debug\五子棋.csproj.GenerateResource.Cache
+D:\Google 雲端硬碟\Project\五子棋\obj\Debug\五子棋.exe
+D:\Google 雲端硬碟\Project\五子棋\obj\Debug\五子棋.pdb
+D:\Google硬碟\Project\五子棋\bin\Debug\五子棋.exe.config
+D:\Google硬碟\Project\五子棋\obj\Debug\五子棋.exe
+D:\Google硬碟\Project\五子棋\obj\Debug\五子棋.pdb
+D:\Google硬碟\Project\五子棋\bin\Debug\五子棋.exe
+D:\Google硬碟\Project\五子棋\bin\Debug\五子棋.pdb
+D:\Google硬碟\Project\五子棋\obj\Debug\五子棋.Form1.resources
+D:\Google硬碟\Project\五子棋\obj\Debug\五子棋.Properties.Resources.resources
+D:\Google硬碟\Project\五子棋\obj\Debug\五子棋.csproj.GenerateResource.Cache
+D:\Google 雲端硬碟\小宇小遊戲\五子棋\bin\Debug\五子棋.exe.config
+D:\Google 雲端硬碟\小宇小遊戲\五子棋\obj\Debug\五子棋.exe
+D:\Google 雲端硬碟\小宇小遊戲\五子棋\obj\Debug\五子棋.pdb
+D:\Google 雲端硬碟\小宇小遊戲\五子棋\bin\Debug\五子棋.exe
+D:\Google 雲端硬碟\小宇小遊戲\五子棋\bin\Debug\五子棋.pdb
+D:\Google 雲端硬碟\小宇小遊戲\五子棋\obj\Debug\五子棋.csprojResolveAssemblyReference.cache
+D:\Google 雲端硬碟\小宇小遊戲\五子棋\obj\Debug\五子棋.Form1.resources
+D:\Google 雲端硬碟\小宇小遊戲\五子棋\obj\Debug\五子棋.Properties.Resources.resources
+D:\Google 雲端硬碟\小宇小遊戲\五子棋\obj\Debug\五子棋.csproj.GenerateResource.Cache
+D:\Google硬碟\小宇小遊戲\五子棋\bin\Debug\五子棋.exe.config
+D:\Google硬碟\小宇小遊戲\五子棋\obj\Debug\五子棋.exe
+D:\Google硬碟\小宇小遊戲\五子棋\obj\Debug\五子棋.pdb
+C:\Users\Joey\Desktop\五子棋\bin\Debug\五子棋.exe.config
+C:\Users\Joey\Desktop\五子棋\bin\Debug\五子棋.exe
+C:\Users\Joey\Desktop\五子棋\bin\Debug\五子棋.pdb
+C:\Users\Joey\Desktop\五子棋\obj\Debug\五子棋.csprojResolveAssemblyReference.cache
+C:\Users\Joey\Desktop\五子棋\obj\Debug\五子棋.Form1.resources
+C:\Users\Joey\Desktop\五子棋\obj\Debug\五子棋.Properties.Resources.resources
+C:\Users\Joey\Desktop\五子棋\obj\Debug\五子棋.csproj.GenerateResource.Cache
+C:\Users\Joey\Desktop\五子棋\obj\Debug\五子棋.csproj.CoreCompileInputs.cache
+C:\Users\Joey\Desktop\五子棋\obj\Debug\五子棋.exe
+C:\Users\Joey\Desktop\五子棋\obj\Debug\五子棋.pdb
